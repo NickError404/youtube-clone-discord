@@ -17,11 +17,14 @@ const ChannelData: React.FC = () => {
 
   return <Container>
     <Messages ref={messagesRef}>
-      <ChannelMessage
-        author="Guilherme Rodz"
-        date="21/06/2020"
-        content="Hoje é meu aniversário"         
-         />
+      {Array.from(Array(15).keys()).map((n) => (
+        <ChannelMessage 
+          key={n}
+          author="NickDigs"
+          date="21/06/2133"
+          content="Sim, sim, tá bom."
+        />
+      ))}
 
       <ChannelMessage
         author="Diego Fernandes"
