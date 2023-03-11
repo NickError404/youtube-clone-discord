@@ -44,3 +44,17 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+# Clone do Discord
+Este projeto é um clone do Discord, um aplicativo de chat de voz e texto muito popular entre os jogadores.
+
+# Tecnologias utilizadas
+React
+Node.js
+Express
+Socket.IO
+
+# Pré-requisitos
+Antes de começar, você precisa ter o Node.js e o npm instalados em sua máquina.
+
+# Mais informações em breve.
