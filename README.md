@@ -57,4 +57,4 @@ Socket.IO
 # Pré-requisitos
 Antes de começar, você precisa ter o Node.js e o npm instalados em sua máquina.
 
-# Mais informacões em cddsdsfddfs
+# Mais informacões em
